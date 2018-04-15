@@ -1,0 +1,19 @@
+{
+  "CompanyCreate.js": "static/js/CompanyCreate.fa97244a.chunk.js",
+  "CompanyEdit.js": "static/js/CompanyEdit.808f250d.chunk.js",
+  "CustomerCreate.js": "static/js/CustomerCreate.b092ff7c.chunk.js",
+  "CustomerEdit.js": "static/js/CustomerEdit.98268519.chunk.js",
+  "RoleCreate.js": "static/js/RoleCreate.d386d7d9.chunk.js",
+  "RoleEdit.js": "static/js/RoleEdit.46428269.chunk.js",
+  "RolesManagement.js": "static/js/RolesManagement.7f93658f.chunk.js",
+  "StatusCreate.js": "static/js/StatusCreate.10cbb8fb.chunk.js",
+  "StatusEdit.js": "static/js/StatusEdit.c1e31f4a.chunk.js",
+  "StatusesManagement.js": "static/js/StatusesManagement.723b21c2.chunk.js",
+  "UploadNewCustomers.js": "static/js/UploadNewCustomers.b77d25f3.chunk.js",
+  "UserCreate.js": "static/js/UserCreate.d570f52c.chunk.js",
+  "UserEdit.js": "static/js/UserEdit.5469c8e0.chunk.js",
+  "UsersManagement.js": "static/js/UsersManagement.7d5ea643.chunk.js",
+  "main.css": "main.c55b65f8719e09577bd2df593a690c23.css",
+  "main.js": "static/js/main.adfc8c2b.js",
+  "static/media/index.mjs": "static/media/index.8485c181.mjs"
+}
