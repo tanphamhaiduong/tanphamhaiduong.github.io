@@ -1,3 +1,43 @@
 {
-  "title": "New Idea Solution CRM"
+  "fieldErrors": {
+    "pleaseCheckEmailFormat": "Hãy kiểm tra lại định dạng email!",
+    "pleaseCheckPhoneNumberFormat": "Hãy kiểm tra lại định dạng số điện thoại!"
+  },
+  "loginPage": {
+    "login": "Đăng Nhập",
+    "password": "Mật Khẩu",
+    "pleaseInputPassword": "Hãy nhập mật khẩu!",
+    "pleaseInputUsername": "Hãy nhập tên đăng nhập!",
+    "submit": "Gửi",
+    "username": "Tên đăng nhập"
+  },
+  "sideBar": {
+    "appointmentReports": "Báo cáo hẹn",
+    "baoVietCustomers": "Khách hàng Bảo Việt",
+    "bulkUploadData": "Đổ data",
+    "bulkUploadDmoResponse": "Cập nhật phản hồi DMO",
+    "callHistoryLogs": "Lịch sử",
+    "callReports": "Lịch sử cuộc gọi",
+    "campaign": "Chiến dịch",
+    "campaignsStatistic": "Thống kê chiến dịch",
+    "collectData": "Thu hồi data",
+    "companies": "Công ty",
+    "distributeData": "Phân phối data",
+    "homePage": "Trang chủ",
+    "manulifeCallBack": "Gọi lại Manulife",
+    "manulifeCustomers": "Khách hàng Manulife",
+    "manulifeGroupCallBack": "Gọi lại trong nhóm Manulife",
+    "manulifeGroupCustomers": "Khách hàng nhóm Manulife",
+    "manulifeGroupLeads": "Lead nhóm Manulife",
+    "manulifeLeads": "Lead Manulife",
+    "notification": "Thông báo",
+    "roles": "Chức vụ",
+    "statusGroupStatistic": "Thống kê nhóm trạng thái",
+    "statusGroups": "Nhóm trạng thái",
+    "statuses": "Trạng thái",
+    "statusesStatistic": "Thống kê trạng thái",
+    "transferData": "Chuyển data",
+    "users": "Người dùng"
+  },
+  "title": "Sen Đá CRM"
 }

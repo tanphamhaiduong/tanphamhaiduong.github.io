@@ -1,3 +1,44 @@
 {
-  "title": "New Idea Solution CRM"
+  "fieldErrors": {
+    "pleaseCheckEmailFormat": "Please check Email Format!",
+    "pleaseCheckPhoneNumberFormat": "Please check Phone Number Format!"
+  },
+  "loginPage": {
+    "login": "Login",
+    "password": "Password",
+    "pleaseInputPassword": "Please input password!",
+    "pleaseInputUsername": "Please input username!",
+    "submit": "Submit",
+    "username": "Username"
+  },
+  "sideBar": {
+    "appointmentReports": "Appointment Reports",
+    "baoVietCustomers": "Bao Viet Customers",
+    "bulkUploadData": "Bulk Upload Data",
+    "bulkUploadDmoResponse": "Bulk Upload DMO Response",
+    "callHistoryLogs": "Call History Logs",
+    "callReports": "Call Reports",
+    "campaign": "Campaign",
+    "campaignsStatistic": "Campaigns Statistic",
+    "collectData": "Collect Data",
+    "companies": "Companies",
+    "distributeData": "Distribute Data",
+    "homePage": "Home Page",
+    "manulifeCallBack": "Manulife Call Back",
+    "manulifeCustomers": "Manulife Customers",
+    "manulifeGroupCallBack": "Manulife Group Call Back",
+    "manulifeGroupCustomers": "Manulife Group Customers",
+    "manulifeGroupLeads": "Manulife Group Leads",
+    "manulifeLeads": "Manulife Leads",
+    "notification": "Notification",
+    "personalDataStatisticStatus": "Personal Data Statistic Status",
+    "roles": "Roles",
+    "statusGroupStatistic": "Status Group Statistic",
+    "statusGroups": "Status Group",
+    "statuses": "Statuses",
+    "statusesStatistic": "Statuses Statistic",
+    "transferData": "Transfer Data",
+    "users": "Users"
+  },
+  "title": "Sen Da CRM"
 }
