@@ -37,6 +37,7 @@
     "statuses": "Trạng thái",
     "statusesStatistic": "Thống kê trạng thái",
     "transferData": "Chuyển data",
+    "resetData": "Thu hồi và xóa lịch sử data",
     "users": "Người dùng"
   },
   "title": "Sen Đá CRM"
