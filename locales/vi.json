@@ -18,15 +18,12 @@
   "groupLeads": "Lead nhóm",
   "homePage": "Trang chủ",
   "leads": "Leads",
-  "loginPage": {
-    "login": "Đăng Nhập",
-    "password": "Mật Khẩu",
-    "pleaseInputPassword": "Hãy nhập mật khẩu!",
-    "pleaseInputUsername": "Hãy nhập tên đăng nhập!",
-    "submit": "Gửi",
-    "username": "Tên đăng nhập"
-  },
+  "listenRecord": "Nghe Ghi Âm",
+  "login": "Đăng Nhập",
   "notification": "Thông báo",
+  "password": "Mật Khẩu",
+  "pleaseInputPassword": "Hãy nhập mật khẩu!",
+  "pleaseInputUsername": "Hãy nhập tên đăng nhập!",
   "resetData": "Thu hồi và xóa lịch sử data",
   "roles": "Chức vụ",
   "someThingWrong": "Xin lỗi, có gì đó sai sai. Vui lòng báo quản trị",
@@ -36,7 +33,9 @@
   "statusGroups": "Nhóm trạng thái",
   "statuses": "Trạng thái",
   "statusesStatistic": "Thống kê trạng thái",
+  "submit": "Gửi",
   "title": "Sen Đá CRM",
   "transferData": "Chuyển data",
+  "username": "Tên đăng nhập",
   "users": "Người dùng"
 }

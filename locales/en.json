@@ -17,16 +17,13 @@
   "groupLeads": "Group Leads",
   "homePage": "Home Page",
   "leads": "Leads",
-  "loginPage": {
-    "login": "Login",
-    "password": "Password",
-    "pleaseInputPassword": "Please input password!",
-    "pleaseInputUsername": "Please input username!",
-    "submit": "Submit",
-    "username": "Username"
-  },
+  "listenRecord": "Listen Record",
+  "login": "Login",
   "notification": "Notification",
+  "password": "Password",
   "personalDataStatisticStatus": "Personal Data Statistic Status",
+  "pleaseInputPassword": "Please input password!",
+  "pleaseInputUsername": "Please input username!",
   "resetData": "Reset Data",
   "roles": "Roles",
   "someThingWrong": "Sorry, there is something wrong.",
@@ -36,7 +33,9 @@
   "statusGroups": "Status Group",
   "statuses": "Statuses",
   "statusesStatistic": "Statuses Statistic",
+  "submit": "Submit",
   "title": "Sen Da CRM",
   "transferData": "Transfer Data",
+  "username": "Username",
   "users": "Users"
 }
