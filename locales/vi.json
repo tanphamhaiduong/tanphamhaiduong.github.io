@@ -8,8 +8,10 @@
   "callHistoryLogs": "Lịch sử cuộc gọi",
   "campaign": "Chiến dịch",
   "campaignsStatistic": "Thống kê chiến dịch",
+  "cancel": "Cancel",
   "collectData": "Thu hồi data",
   "companies": "Công ty",
+  "copyright": "© tanphamhaiduong@gmail.com",
   "customers": "Khách hàng",
   "distributeData": "Phân phối data",
   "groupCallBack": "Gọi lại trong nhóm",
@@ -26,6 +28,7 @@
   "pleaseInputUsername": "Hãy nhập tên đăng nhập!",
   "resetData": "Thu hồi và xóa lịch sử data",
   "roles": "Chức vụ",
+  "save": "Lưu",
   "someThingWrong": "Xin lỗi, có gì đó sai sai. Vui lòng báo quản trị",
   "statisticCall": "Thống kê cuộc gọi",
   "statisticCallByUser": "Thống kê cuộc gọi theo TMR",
@@ -34,8 +37,9 @@
   "statuses": "Trạng thái",
   "statusesStatistic": "Thống kê trạng thái",
   "submit": "Gửi",
-  "title": "Sen Đá CRM",
+  "title": "Dự Án Gothena CRM",
   "transferData": "Chuyển data",
   "username": "Tên đăng nhập",
-  "users": "Người dùng"
+  "users": "Người dùng",
+  "version": "Phiên bản {{version}}"
 }

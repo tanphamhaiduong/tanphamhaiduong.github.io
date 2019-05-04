@@ -7,8 +7,10 @@
   "callHistoryLogs": "Call History Logs",
   "campaign": "Campaign",
   "campaignsStatistic": "Campaigns Statistic",
+  "cancel": "Cancel",
   "collectData": "Collect Data",
   "companies": "Companies",
+  "copyright": "© tanphamhaiduong@gmail.com",
   "customers": "Customers",
   "distributeData": "Distribute Data",
   "groupCallBack": "Group Call Back",
@@ -26,6 +28,7 @@
   "pleaseInputUsername": "Please input username!",
   "resetData": "Reset Data",
   "roles": "Roles",
+  "save": "Save",
   "someThingWrong": "Sorry, there is something wrong.",
   "statisticCall": "Statistic Call",
   "statisticCallByUser": "Statistic Call By User",
@@ -34,8 +37,9 @@
   "statuses": "Statuses",
   "statusesStatistic": "Statuses Statistic",
   "submit": "Submit",
-  "title": "Sen Da CRM",
+  "title": "Gothena CRM Project",
   "transferData": "Transfer Data",
   "username": "Username",
-  "users": "Users"
+  "users": "Users",
+  "version": "Version {{version}}"
 }
