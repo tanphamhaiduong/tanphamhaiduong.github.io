@@ -41,5 +41,6 @@
   "transferData": "Chuyển data",
   "username": "Tên đăng nhập",
   "users": "Người dùng",
-  "version": "Phiên bản {{version}}"
+  "version": "Phiên bản {{version}}",
+  "createNewCustomer": "Tạo khách hàng"
 }

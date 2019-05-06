@@ -41,5 +41,6 @@
   "transferData": "Transfer Data",
   "username": "Username",
   "users": "Users",
-  "version": "Version {{version}}"
+  "version": "Version {{version}}",
+  "createNewCustomer": "Create New Customer"
 }
