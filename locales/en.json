@@ -4,6 +4,7 @@
   "bulkUploadData": "Bulk Upload Data",
   "bulkUploadDmoResponse": "Bulk Upload DMO Response",
   "callBack": "Call Back",
+  "callCustomer": "Call Customer",
   "callHistoryLogs": "Call History Logs",
   "campaign": "Campaign",
   "campaignsStatistic": "Campaigns Statistic",
@@ -11,6 +12,8 @@
   "collectData": "Collect Data",
   "companies": "Companies",
   "copyright": "© tanphamhaiduong@gmail.com",
+  "createNewCustomer": "Create New Customer",
+  "createTicket": "Create ticket",
   "customers": "Customers",
   "distributeData": "Distribute Data",
   "groupCallBack": "Group Call Back",
@@ -37,10 +40,11 @@
   "statuses": "Statuses",
   "statusesStatistic": "Statuses Statistic",
   "submit": "Submit",
+  "ticket": "Ticket",
   "title": "Gothena CRM Project",
   "transferData": "Transfer Data",
   "username": "Username",
   "users": "Users",
   "version": "Version {{version}}",
-  "createNewCustomer": "Create New Customer"
+  "viewHistory": "View History"
 }

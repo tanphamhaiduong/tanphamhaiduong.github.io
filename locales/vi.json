@@ -5,6 +5,7 @@
   "bulkUploadData": "Đổ data",
   "bulkUploadDmoResponse": "Cập nhật phản hồi DMO",
   "callBack": "Gọi lại",
+  "callCustomer": "Gọi khách hàng",
   "callHistoryLogs": "Lịch sử cuộc gọi",
   "campaign": "Chiến dịch",
   "campaignsStatistic": "Thống kê chiến dịch",
@@ -12,6 +13,8 @@
   "collectData": "Thu hồi data",
   "companies": "Công ty",
   "copyright": "© tanphamhaiduong@gmail.com",
+  "createNewCustomer": "Tạo khách hàng",
+  "createTicket": "Tạo ticket",
   "customers": "Khách hàng",
   "distributeData": "Phân phối data",
   "groupCallBack": "Gọi lại trong nhóm",
@@ -37,10 +40,11 @@
   "statuses": "Trạng thái",
   "statusesStatistic": "Thống kê trạng thái",
   "submit": "Gửi",
+  "ticket": "Ticket",
   "title": "Dự Án Gothena CRM",
   "transferData": "Chuyển data",
   "username": "Tên đăng nhập",
   "users": "Người dùng",
   "version": "Phiên bản {{version}}",
-  "createNewCustomer": "Tạo khách hàng"
+  "viewHistory": "Xem Lịch sử"
 }
